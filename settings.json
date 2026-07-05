@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Tao là bot treo máy chủ",
+        "Mấy thằng đang chơi là GAY!",
+        "Tao biết mày có thể là lốp hoặc GAY!"
       ]
     },
     "chat-log": true,
@@ -69,12 +69,12 @@
     "console-commands": true
   },
   "combat": {
-    "attack-mobs": true,
-    "auto-eat": true
+    "attack-mobs": false,
+    "auto-eat": false
   },
   "beds": {
-    "pick-up-day": true,
-    "place-night": true
+    "pick-up-day": false,
+    "place-night": false
   },
   "discord": {
     "enabled": true,
@@ -86,6 +86,6 @@
     }
   },
   "chat": {
-    "respond": true
+    "respond": false
   }
 }
